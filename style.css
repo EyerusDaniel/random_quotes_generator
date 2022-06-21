@@ -7,6 +7,7 @@ html{
 
 
 p{
+    padding-top: 150px;
     text-align: center;
     font-weight: 700;
     font-size: 50px;
@@ -17,7 +18,9 @@ p{
 #btn{
     padding: 12px 5px;
     margin-left: 44%;
-    background-color: rgb(233, 94, 129);
+    background-color: rgb(241, 108, 141);
+    border-radius: 8px;
+    border: 3px solid white;
     
 }
 
